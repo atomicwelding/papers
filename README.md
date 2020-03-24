@@ -13,4 +13,4 @@
 ## Websites
 ### Documentation about malwares
 
-[z0mbie's website, contains source of well-know zmist virus](http://z0mbie.daemonlab.org) 
+[z0mbie's website, contains source of well-known zmist virus](http://z0mbie.daemonlab.org) 
