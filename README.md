@@ -6,11 +6,14 @@
 
 
 [Graph-based malware detection using dynamic analysis ](malware_analysis/graph_based_malware_detection_anderson_quist_neil_storlie_lane.pdf) - *Anderson, Quist, Neil, Storlie, Lane*  
-[Machine learning in malware analysis](malware_analysis/kaspersky_lab_ml.pdf) - *Kaspersky Labs*
+[Machine learning in malware analysis](malware_analysis/kaspersky_lab_ml.pdf) - *Kaspersky Labs*  
 
-
-
+### Physics, Astronomy  
+[Radial Velocity](physics/radial_velocity_lovis_fischer) - *Lovis, Fischer*   
 ## Websites
 ### Documentation about malwares
 
 [z0mbie's website, contains source of well-known zmist virus](http://z0mbie.daemonlab.org) 
+
+### Physics, Astronomy
+[Nasa Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
