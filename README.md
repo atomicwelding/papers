@@ -9,7 +9,7 @@
 [Machine learning in malware analysis](malware_analysis/kaspersky_lab_ml.pdf) - *Kaspersky Labs*  
 
 ### Physics, Astronomy  
-[Radial Velocity](physics/radial_velocity_lovis_fischer) - *Lovis, Fischer*   
+[Radial Velocity](physics/radial_velocity_lovis_fischer.pdf) - *Lovis, Fischer*   
 ## Websites
 ### Documentation about malwares
 
