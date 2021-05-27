@@ -12,8 +12,13 @@
 
 [Pattern recognition methods in high dimensional settings](data_science_ml_dl/pattern_recognition_methods_in_high_dimensional_settings_aeberhard_coomans_de_vel.pdf) - *Aeberhard, Coomans, De Vel*   
 
+### Maths
+[Linear Algebra & its applications](maths/linear_algebra_g_strang.pdf) - *Strang*
+[Calculus](maths/calculus_g_strang.pdf) - *Strang*
+
 ### Physics, Astronomy  
-[Radial Velocity](physics/radial_velocity_lovis_fischer.pdf) - *Lovis, Fischer*   
+[Radial Velocity](physics/radial_velocity_lovis_fischer.pdf) - *Lovis, Fischer*
+[A first course in General Relativity](physics/first_course_general_relativity_schutz.pdf) - *Schutz*
 
 
 ## Websites
@@ -23,3 +28,4 @@
 
 ### Physics, Astronomy
 [Nasa Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
+
